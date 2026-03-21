@@ -12,7 +12,7 @@ If you discover a security vulnerability, please report it responsibly.
 
 **Do NOT open a public GitHub issue for security vulnerabilities.**
 
-Instead, please email: **jeff@jeff-is-working.com**
+Instead, please email: **security@jeffrecords.com**
 
 ### What to Include
 
