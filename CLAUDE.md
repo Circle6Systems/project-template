@@ -47,9 +47,17 @@ Every GitHub issue must include:
 
 ## Documentation
 
-- `docs/status/` — Status reports and session summaries (date-prefixed, e.g., `2026-03-21-sprint-review.md`)
+- `docs/status/` -- Status reports and session summaries (date-prefixed, e.g., `2026-03-21-sprint-review.md`)
 - Do not create documentation files unless explicitly requested
 - Keep CLAUDE.md up to date as the project evolves
+
+## End-of-Session Documentation
+
+Before closing any work session, complete these steps:
+
+1. **Status file.** Write a date-prefixed summary to `docs/status/` covering: what was done, decisions made, what's left, and lessons learned.
+2. **Commit and push.** All changes (including status docs) must be committed and pushed. No dangling local-only work.
+3. **Verify clean state.** Run `git status` to confirm no uncommitted changes.
 
 ---
 
