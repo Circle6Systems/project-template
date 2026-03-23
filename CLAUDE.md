@@ -11,6 +11,7 @@ These instructions govern all development work in this repository. They are mand
 1. **Issues first.** Every code change must map to a documented GitHub issue. The issue must include a remediation/implementation plan before any code is written. Do not write code for work that isn't tracked in an issue.
 2. **Tests before code.** Write tests for the expected behavior before writing implementation code (TDD). If the repo has no test infrastructure, set it up as the first task before any feature work.
 3. **Plan, then implement.** Use plan mode to design the approach, get alignment, then execute. Do not start coding without a plan for non-trivial work.
+4. **Never suppress failing tests.** If a test fails, file a GitHub issue for the root cause and leave the test failing until the underlying problem is fixed. Do not add filters, skip conditions, or workarounds to make failing tests pass. Fix the problem, not the test.
 
 ---
 
