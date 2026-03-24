@@ -1,10 +1,10 @@
 # Project Name
 
-<!-- Replace "Project Name" above and "project-template" in badge URLs with your repo name -->
+<!-- Replace "Project Name" above and update ORG_NAME/REPO_NAME in badge URLs below -->
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![CI](https://github.com/jeff-is-working/project-template/actions/workflows/ci.yml/badge.svg)](https://github.com/jeff-is-working/project-template/actions/workflows/ci.yml)
-[![GitHub Pages](https://github.com/jeff-is-working/project-template/actions/workflows/deploy-pages.yml/badge.svg)](https://jeff-is-working.github.io/project-template)
+[![CI](https://github.com/ORG_NAME/REPO_NAME/actions/workflows/ci.yml/badge.svg)](https://github.com/ORG_NAME/REPO_NAME/actions/workflows/ci.yml)
+[![GitHub Pages](https://github.com/ORG_NAME/REPO_NAME/actions/workflows/deploy-pages.yml/badge.svg)](https://ORG_NAME.github.io/REPO_NAME)
 
 <!-- Describe what this project does in 1-2 sentences -->
 
@@ -32,7 +32,7 @@
 ### Installation
 
 ```bash
-git clone https://github.com/jeff-is-working/<repo-name>.git
+git clone https://github.com/ORG_NAME/<repo-name>.git
 cd <repo-name>
 npm install   # or: pip install -r requirements.txt
 cp .env.example .env
