@@ -1,10 +1,16 @@
+---
+title: Security Policy
+scope: Vulnerability reporting process and response timelines
+last_updated: 2026-03-27
+---
+
 # Security Policy
 
 ## Supported Versions
 
 | Version | Supported          |
 | ------- | ------------------ |
-| latest  | :white_check_mark: |
+| latest  | Yes                |
 
 ## Reporting a Vulnerability
 

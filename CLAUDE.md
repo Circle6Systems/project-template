@@ -1,3 +1,9 @@
+---
+title: Project Standards
+scope: Development workflow, branching, issue standards, code quality, and documentation
+last_updated: 2026-03-27
+---
+
 # CLAUDE.md — Project Standards
 
 These instructions govern all development work in this repository. They are mandatory and override default behavior.

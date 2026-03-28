@@ -1,3 +1,9 @@
+---
+title: Project Template README
+scope: Repository overview, setup, and usage instructions
+last_updated: 2026-03-27
+---
+
 # Project Name
 
 <!-- Replace "Project Name" above and update ORG_NAME/REPO_NAME in badge URLs below -->

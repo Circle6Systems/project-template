@@ -1,3 +1,9 @@
+---
+title: Contributing Guide
+scope: Development setup, commit conventions, pull request process, and code style
+last_updated: 2026-03-27
+---
+
 # Contributing
 
 Thank you for your interest in contributing! This guide will help you get started.
